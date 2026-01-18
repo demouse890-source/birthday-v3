@@ -27,7 +27,7 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always.
+                        Happy Birthday, Uzzmmii! You deserve all the happiness, love, and smiles in the world today and always.
                         You have this special way of making everything around you brighter, your smile, your kindness, and the way
                         you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that
                         make your heart happy. You’re truly one of a kind, and I just want you to know how special you are.
